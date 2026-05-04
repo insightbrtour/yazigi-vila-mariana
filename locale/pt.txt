@@ -3,14 +3,14 @@
 ## Action
 
 ### URL
-LinkBehaviour_FC0C7391_F372_FFF8_41EB_7E0019E5FBFB.source = https://ibr360.com.br/
 LinkBehaviour_FC765326_F376_18DB_41E5_B58B1C065DC1.source = https://ibr360.com.br/
-LinkBehaviour_CB1A5D93_D953_5C57_41AA_F81CCB9113F6.source = https://maps.app.goo.gl/4vmvgJDUs7fEbFQP9
+LinkBehaviour_FC0C7391_F372_FFF8_41EB_7E0019E5FBFB.source = https://ibr360.com.br/
 LinkBehaviour_CAC38EBB_D953_3C57_41D5_0B7BAC297FDF.source = https://maps.app.goo.gl/4vmvgJDUs7fEbFQP9
-LinkBehaviour_C824F329_D955_6473_41D4_EF3586CDEA60.source = https://wa.me/5511988668819
+LinkBehaviour_CB1A5D93_D953_5C57_41AA_F81CCB9113F6.source = https://maps.app.goo.gl/4vmvgJDUs7fEbFQP9
 LinkBehaviour_CB6C30C7_D953_243F_41B3_5D538A00A891.source = https://wa.me/5511988668819
-LinkBehaviour_CB55DBDC_D952_DBD1_41DB_E9026EFEC941.source = https://www.yazigivilamariana.com.br/
+LinkBehaviour_C824F329_D955_6473_41D4_EF3586CDEA60.source = https://wa.me/5511988668819
 LinkBehaviour_C816FC37_D953_5C5F_41CA_B481A27702FA.source = https://www.yazigivilamariana.com.br/
+LinkBehaviour_CB55DBDC_D952_DBD1_41DB_E9026EFEC941.source = https://www.yazigivilamariana.com.br/
 
 ## Media
 
@@ -48,10 +48,10 @@ Button_C169DD30_DB1E_B1DA_41A5_A0AD6809C669.label = 2º ANDAR
 Button_D1BFBFB7_DEB9_176C_41EB_3B56350246CE_mobile.label = 2º ANDAR
 Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = FACHADA
 Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = FACHADA
-Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = LOBBY
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = LOBBY
-Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = LOBBY
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = LOBBY
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = LOBBY
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = LOBBY
 Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = RECEPÇÃO
 Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = RECEPÇÃO
 Button_7DBC8382_7065_343F_4183_17B44518DB40.label = REFEITÓRIO
